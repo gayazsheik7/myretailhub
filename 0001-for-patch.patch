@@ -1,0 +1,22 @@
+From 615735570df54daab881f724fa9a85568f422e5d Mon Sep 17 00:00:00 2001
+From: tom <gayazsheik7@gmail.com>
+Date: Sun, 2 Sep 2018 16:37:46 +0000
+Subject: [PATCH]  for patch
+
+---
+ paytm.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/paytm.txt b/paytm.txt
+index fdb9fca..76e569d 100644
+--- a/paytm.txt
++++ b/paytm.txt
+@@ -1,2 +1,5 @@
+ 
+ this is for not commited
++
++this is for tags
++
+-- 
+2.7.4
+
